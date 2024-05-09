@@ -14,7 +14,7 @@ struct ContentView: View {
            Map()
                 .mapStyle(.standard(elevation: .flat))
         }
-        .padding()
+        .padding(40)
     }
 }
 
